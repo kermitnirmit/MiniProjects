@@ -67,3 +67,4 @@ if __name__ == '__main__':
         l = generateList(10)
         og, prediction, numsteps = solve(l)
         print("List: ", og, "Prediction: ", prediction, "Actual:", numsteps)
+        # test
